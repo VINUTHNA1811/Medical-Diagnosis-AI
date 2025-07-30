@@ -11,7 +11,7 @@ It provides instant predictions with confidence scores, an intuitive dark-themed
 
 ## 🔗 Live Demo
 
-👉 [Click here to access the live app](https://your-streamlit-cloud-link.streamlit.app)
+👉 [Click here to access the live app](https://medical-diagnosis-ai-vinuthnabudde.streamlit.app/)
 
 > Deployed on **Streamlit Cloud**. No setup needed — just upload your image and get instant AI results.
 
