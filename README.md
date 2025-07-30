@@ -1,4 +1,4 @@
-# 🩺 Medical Diagnosis AI Dashboard
+# 🩺 Medical Diagnosis AI 
 
 A **Streamlit-based web application** that uses **CNN-based binary classifiers** to assist in early medical diagnosis from medical images. This app performs:
 
